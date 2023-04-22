@@ -1,3 +1,3 @@
-# Single Image Textual Inversion Made Easy
+# An Image is Worth One Sentence
 
-Coming soon
+CSC413 Project
