@@ -1,4 +1,4 @@
-# An Image is Worth One Sentence
+# An Image is Worth One Sentence: Fast Textual Inversion with Supreme Initialization
 
 <img width="1256" alt="Screenshot 2023-04-22 at 12 55 28 AM" src="https://user-images.githubusercontent.com/68970896/233763367-6b378582-e9d5-4f6f-8746-c153cb473098.png">
 
